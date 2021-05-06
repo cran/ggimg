@@ -1,14 +1,14 @@
-3b3de535fb3f2c6741dc7e0edbcc3dc0 *DESCRIPTION
+7ec5cafc83ea050bad849d1e7c4e4fb6 *DESCRIPTION
 e66eb4fff6ac95a1048762995687990c *NAMESPACE
 6d1763403238536f9d1f97d816154a35 *NEWS.md
 bd5f1db28fe93f3d7813e2deb6d60956 *R/data.R
 deb2bdbb1ba76ab1afac3a2fb7834fb2 *R/funs.R
 805c37d98eddda5a5c3277f9de369911 *R/geom.R
-747216626044d2712647580e4ca8a7de *build/vignette.rds
+48dcfa8d7d1a481fe99eeceada21b62f *build/vignette.rds
 1d87e4a7ac42c1aade33b7ccf4bb4654 *data/posters.rda
 fd511096eb731e389f7d5038893986d2 *inst/doc/package_intro.R
 16d8ee64e9902f4c324f857d4b593cf0 *inst/doc/package_intro.Rmd
-6733a7ed012104f757e43b0000fb55ac *inst/doc/package_intro.html
+4d81ed17e855026dcab2b3ea0fa26156 *inst/doc/package_intro.html
 ba4ff1462e4372c166c876a1c057717d *inst/extdata/2001_monsters_inc.jpg
 2dc61b9ca1d799c1bb6caa861df9a568 *inst/extdata/2001_shrek.jpg
 1e4bedf9d8d7eb4a9a7b6a16b323a825 *inst/extdata/2003_finding_nemo.jpg

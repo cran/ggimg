@@ -1,14 +1,14 @@
 Package: ggimg
 Type: Package
 Title: Graphics Layers for Plotting Image Data with 'ggplot2'
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(person(
   given = "Taylor B.",
   family = "Arnold",
-  email = "taylor.arnold@acm.org",
+  email = "tarnold2@richmond.edu",
   role = c("aut", "cre")))
 Author: Taylor B. Arnold [aut, cre]
-Maintainer: Taylor B. Arnold <taylor.arnold@acm.org>
+Maintainer: Taylor B. Arnold <tarnold2@richmond.edu>
 Description: Provides two new layer types for displaying image data as layers
   within the Grammar of Graphics framework. Displays images using either a
   rectangle interface, with a fixed bounding box, or a point interface using a
@@ -26,6 +26,6 @@ LazyData: true
 VignetteBuilder: knitr
 RoxygenNote: 7.0.2
 NeedsCompilation: no
-Packaged: 2021-05-06 19:09:43 UTC; admin
+Packaged: 2022-08-12 15:06:31 UTC; taylor
 Repository: CRAN
-Date/Publication: 2021-05-06 19:20:02 UTC
+Date/Publication: 2022-08-17 09:30:09 UTC
